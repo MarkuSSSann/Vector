@@ -95,12 +95,6 @@ int main(){
 	}
 	cout << Highest << endl;
 
-	
-
-	int x = sum + 500;
-	cout << "Sum + 500: " << x << endl;
-
-
 	cout << endl;
 	return 0;
 }
